@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "QuantileModels"]
 	path = QuantileModels
-	url = https://github.com/cran/QuantileModels
+	url = https://github.com/chjoca/quantilemodels
